@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "compiler.cpp.extra_flags=-DSWEEP_ON_BOOT=1,compiler.c.extra_flags=-DSWEEP_ON_BOOT=1",
+  "fqbn": "CHGame:ch32v:CHGame:opt=o2std,rtlib=nano",
+  "hardwareFolders": "C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\CHGame\\hardware\\ch32v\\0.1.0,C:\\Users\\kevin\\AppData\\Local\\Arduino15\\packages\\CHGame\\hardware\\ch32v\\0.1.0",
+  "otherLibrariesFolders": "C:\\Users\\kevin\\OneDrive\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\LocalProjects\\CH32SDCard\\CHMultiSprite"
+}

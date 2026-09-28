@@ -1,0 +1,36 @@
+D:\LocalProjects\CH32SDCard\CHMultiSprite\build_bench\sweep\core\ch32\pinmap.c.o: \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\pinmap.c \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\pinmap.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\PinNames.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\PinNamesTypes.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\PortNames.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\ch32_def.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Core/core_riscv.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/USER/system_ch32x035.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/USER/ch32x035_conf.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_adc.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_awu.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_dbgmcu.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_dma.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_exti.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_flash.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_gpio.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_i2c.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_iwdg.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_pwr.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_rcc.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_spi.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_tim.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_usart.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_wwdg.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/USER/ch32x035_it.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Debug/debug.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\system/CH32X035/SRC/Peripheral/inc/ch32x035_misc.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\variants\CH32X035\CHGame/PinNamesVar.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\pinconfig.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino\ch32\PinAF_ch32yyxx.h \
+ c:\users\kevin\appdata\local\arduino15\packages\chgame\hardware\ch32v\0.1.0\variants\ch32x035\pinaf_ch32x035.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino/ch32/lib/ch32yyxx_gpio.h \
+ C:\Users\kevin\AppData\Local\Arduino15\packages\CHGame\hardware\ch32v\0.1.0\cores\arduino/ch32/lib/system_ch32yyxx.h
